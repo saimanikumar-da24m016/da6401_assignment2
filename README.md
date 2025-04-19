@@ -91,13 +91,12 @@ Guided backprop for 10 neurons in conv5:
 Test accuracy: ~85.9%
 
 **Progressive unfreezing:** four stages of 5 epochs each—head only, +1 block, +2 blocks, then full network.
-- Final test accuracy: **XX.X%** (loaded best checkpoint)
+- Final test accuracy: **85.85** (loaded best checkpoint)
 
-![Prog Unfreeze Grid](partB/partB_prog_unfreeze_grid.png)
 
 ---
 
-## Part C: YOLOv3 Object Detection Demo (0 Marks)
+## Part C: YOLOv3 Object Detection Demo 
 
 In `partC/partC-da6401-assignment-2.ipynb`, we apply a pretrained YOLOv3 model to a sample video clip ("Raptor Chase" from *Jurassic World Dominion*), detect bounding boxes and class labels per frame, and render annotated video.
 
