@@ -1,7 +1,7 @@
-## DA6401 Assignment 2 DA24M016
+# DA6401 Assignment 2 DA24M016
 
 
-# Project Links
+## Project Links
 
 - **WandB Report**: [DA6401 Assignment 2 Report](https://wandb.ai/da24m016-indian-institute-of-technology-madras/da6401_assignment2/reports/DA6401-Assignment-2--VmlldzoxMjM1NTMzNg?accessToken=vcpmcbhiyqf981k5x7nuhxz25esx2d3lpv1jh6qyf179xv4hzz0rzvyw2c4lh897)
 - **GitHub Repository**: [saimanikumar-da24m016/da6401_assignment2](https://github.com/saimanikumar-da24m016/da6401_assignment2)
